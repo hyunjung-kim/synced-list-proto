@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncedListPrototype", "SyncedListPrototype\SyncedListPrototype.csproj", "{432D77A6-F86F-4FCF-91FC-85A3ED0C44C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{432D77A6-F86F-4FCF-91FC-85A3ED0C44C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432D77A6-F86F-4FCF-91FC-85A3ED0C44C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432D77A6-F86F-4FCF-91FC-85A3ED0C44C1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{432D77A6-F86F-4FCF-91FC-85A3ED0C44C1}.Debug|x86.ActiveCfg = Release|x86
+		{432D77A6-F86F-4FCF-91FC-85A3ED0C44C1}.Debug|x86.Build.0 = Release|x86
+		{432D77A6-F86F-4FCF-91FC-85A3ED0C44C1}.Debug|x86.Deploy.0 = Release|x86
+		{432D77A6-F86F-4FCF-91FC-85A3ED0C44C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432D77A6-F86F-4FCF-91FC-85A3ED0C44C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432D77A6-F86F-4FCF-91FC-85A3ED0C44C1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{432D77A6-F86F-4FCF-91FC-85A3ED0C44C1}.Release|x86.ActiveCfg = Release|x86
+		{432D77A6-F86F-4FCF-91FC-85A3ED0C44C1}.Release|x86.Build.0 = Release|x86
+		{432D77A6-F86F-4FCF-91FC-85A3ED0C44C1}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EBA338E-ACC2-4334-975E-E68C5E99FA21}
+	EndGlobalSection
+EndGlobal
